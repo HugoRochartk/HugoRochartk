@@ -2,6 +2,6 @@
 - 🏚 I'm from Barcelos, Braga, Portugal.
 - ⏱️ I'm 19 years old.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Computer Science at Universidade do Minho, Braga.
+- 🌱 I’m a third year Computer Science student at Universidade do Minho, Braga.
 - 📫 How to reach me:
      hugorochartk@gmail.com
